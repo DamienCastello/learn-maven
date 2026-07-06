@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.castello</groupId>
+    <artifactId>learn-maven</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <name>Learn maven</name>
+    <description>Apprendre le fonctionnement de maven</description>
+    <url>https://github.com/DamienCastello/learn-maven</url>
+    <inceptionYear>2024</inceptionYear>
+
+    <organization>
+        <name>Castello</name>
+        <url>https://cv.castello.ovh/</url>
+    </organization>
+
+    <properties>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>
